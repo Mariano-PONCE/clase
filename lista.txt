@@ -2,3 +2,5 @@ frutilla
 manzana 
 pera 
 limon
+melon 
+sandia
